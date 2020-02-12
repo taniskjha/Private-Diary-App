@@ -9,7 +9,7 @@
     "build": "webpack --mode production --progress",
     "json:server": "json-server --watch api/db.json"
   },
-  "author": "Brad Traversy",
+  "author": "Tanisk jha",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.3",
