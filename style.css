@@ -1,0 +1,11 @@
+body  {
+    background: linear-gradient(to left, #000000, #434343);
+}
+
+/* .postsContainer {
+    background: linear-gradient(to left, #000000, #434343);
+} */
+
+h2 {
+    text-align: center;
+}
